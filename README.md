@@ -30,6 +30,4 @@ This project analyzes satellite-derived chlorophyll concentration data to study 
 Chlorophyll concentration is used as a proxy for coastal environmental conditions and does not directly represent pollution.
 
 ## Author
-- Yen-Chia Chiu
-- Bachelor ’s Student in Oceanography with Micro-Program of Data Science
-- National Sun Yat-sen University
+Yen-Chia Chiu
